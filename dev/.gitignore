@@ -1,0 +1,106 @@
+# JPEG
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi
+
+# JPEG 2000
+*.jp2
+*.j2k
+*.jpf
+*.jpx
+*.jpm
+*.mj2
+
+# JPEG XR
+*.jxr
+*.hdp
+*.wdp
+
+# Graphics Interchange Format
+*.gif
+
+# RAW
+*.raw
+
+# Web P
+*.webp
+
+# Portable Network Graphics
+*.png
+
+# Animated Portable Network Graphics
+*.apng
+
+# Multiple-image Network Graphics
+*.mng
+
+# Tagged Image File Format
+*.tiff
+*.tif
+
+# Scalable Vector Graphics
+*.svg
+*.svgz
+
+# Portable Document Format
+*.pdf
+
+# X BitMap
+*.xbm
+
+# BMP
+*.bmp
+*.dib
+
+# ICO
+*.ico
+
+# 3D Images
+*.3dm
+*.max
+
+# Compressed Files
+*.zip
+*.rar
+*.gzip
+*.7z
+
+# Error Logs
+*error_log*
+
+# folders
+dataapi/
+English Pro
+getstarted/
+getstartedsplays/
+iframeTemplate
+images/
+jointus/
+ajax/
+allowmic/
+assess/
+assets/
+blog/
+lti/
+lti2/
+p2g.org/
+questions/
+room1/
+room2/
+room2-mic/
+room3/
+room4/
+smartprep/
+subtration/
+support/
+techcheck/
+telpas/
+thankyou/
+tutorgigs.io/
+tutorlession/
+visual/
+
+*.mp4
